@@ -1,0 +1,30 @@
+MAC安装依赖
+
+1. brew
+https://brew.sh/
+
+brew install nvm
+
+2. nvm
+https://blog.csdn.net/suwu150/article/details/79881503
+
+vim ~/.bash_profile
+
+export NVM_DIR="$HOME/.nvm"
+  [ -s "/usr/local/opt/nvm/nvm.sh" ] && . "/usr/local/opt/nvm/nvm.sh"  # This loads nvm
+  [ -s "/usr/local/opt/nvm/etc/bash_completion" ] && . "/usr/local/opt/nvm/etc/bash_completion"  # This loads nvm bash_completion
+
+source ~/.bash_profile
+
+nvm ls-remote
+nvm  ls
+nvm install v10.16.3
+nvm use v10.16.3 // 切换版本
+nvm current
+nvm alias default v10.16.3 // 默认版本
+
+3. 删除system nodejs
+
+sudo rm -rf /usr/local/{bin/{node,npm},lib/node_modules/npm,lib/node,share/man/*/node.*}
+
+brew uninstall node

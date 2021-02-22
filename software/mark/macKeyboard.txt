@@ -1,0 +1,30 @@
+MAC常用快捷键
+
+python -m SimpleHTTPServer 8888
+
+Cmd + Shift + .  切换隐藏文件显示与隐藏
+
+// 杀死进程
+sudo lsof -i tcp:8080
+sudo kill -9 750
+
+git fetch记住密码的方法：
+git config credential.helper store —global
+
+然后第一次输入密码，以后就记住啦
+mac 全局安装无权限 
+sudo chown -R $USER /usr/local
+sudo chown -R `whoami` /usr/local
+
+解压zip
+The Unarchiver
+
+// 启动MySQL服务
+sudo /usr/local/MySQL/support-files/mysql.server start
+
+// 停止MySQL服务
+sudo /usr/local/mysql/support-files/mysql.server stop
+
+// 重启MySQL服务
+sudo /usr/local/mysql/support-files/mysql.server restart
+

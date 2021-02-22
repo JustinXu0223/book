@@ -1,0 +1,9 @@
+hosts：
+
+sudo vim /etc/hosts
+
+0.0.0.0 account.jetbrains.com
+0.0.0.0 macpaw.com
+0.0.0.0 software.macpaw.com
+0.0.0.0 updates.devmate.com
+0.0.0.0 app.hello.devmate.com

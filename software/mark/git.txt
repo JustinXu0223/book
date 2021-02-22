@@ -1,0 +1,7 @@
+git 常用命令
+
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+
+git fetch记住密码的方法：
+$ git config credential.helper store —global

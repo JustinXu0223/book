@@ -5,6 +5,8 @@
 - 地址2
 > https://www.ghpym.com/ideapatch.html
 
+- 地址2
+> https://key.words.run/cn
 
 - 删除配置
 ```

@@ -1,15 +1,6 @@
 
-- 地址1
-> https://www.jiweichengzhu.com/article/eb340e382d1d456c84a1d190db12755c
-
-- 地址2
-> https://www.ghpym.com/ideapatch.html
-
-- 地址3
-> https://key.words.run/cn
-
-- 地址4
-> https://www.yht7.com/idea
+- 地址
+> https://cloud.tencent.com/developer/article/1782921
 
 - 删除配置
 ```

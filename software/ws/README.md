@@ -1,6 +1,9 @@
 
-- 地址
+- 地址 2021.1
 > https://cloud.tencent.com/developer/article/1782921
+
+- 地址 2022.1
+> https://vccv.cc/article/jetbrains-activate.html
 
 - 删除配置
 ```

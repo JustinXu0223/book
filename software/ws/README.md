@@ -5,6 +5,8 @@
 - 地址 2022.1
 > https://vccv.cc/article/jetbrains-activate.html
 
+> https://www.exception.site/essay/jetbrains-all-active-code
+
 - 删除配置
 ```
 # 删除配置信息目录

@@ -7,6 +7,9 @@
 
 > https://www.exception.site/essay/jetbrains-all-active-code
 
+- 地址 2022.2
+> https://www.jiweichengzhu.com/article/59a0e35f7c7d40b48233fa0462b2b9c8
+
 - 删除配置
 ```
 # 删除配置信息目录

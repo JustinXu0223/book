@@ -9,6 +9,9 @@
 
 - 地址 2022.2
 > https://www.jiweichengzhu.com/article/59a0e35f7c7d40b48233fa0462b2b9c8
+ 
+- code
+> https://www.haah.net/jetbrains
 
 - 删除配置
 ```
